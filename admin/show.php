@@ -197,7 +197,7 @@ tr:hover .cut { opacity: 1; }
 </h1>
 			<address >
 				<p> HOTEL Amenecer</p>
-				<p>New Kalmunani Road,<br>Batusai,<br>Sri Lanka.</p>
+				<p>New Kalmunani Road,<br>Batusai,<br>ECUADOR.</p>
 				<p>(+94) 65 222 44 55</p>
 			</address>
 			<span><img alt="" src="assets/img/sun.png"></span>
