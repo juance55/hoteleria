@@ -38,8 +38,8 @@ include('db.php');
 			</div>
 			<div class="contact-bnr-w3-agile">
 				<ul>
-					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@facturacionweb.site">info@facturacionweb.site</a></li>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+504 7050-8888</li>	
+					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@facturacionweb.site">hotel@admin.com</a></li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>+593 98565998</li>	
 					<li class="s-bar">
 						<div class="search">
 							<input class="search_box" type="checkbox" id="search_box">
@@ -66,7 +66,7 @@ include('db.php');
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.php"> SOL <span>SUBIR</span><p class="logo_w3l_agile_caption">Tu resort de ensueño</p></a></h1>
+					<h1><a class="navbar-brand" href="index.php"> HOTELES <span>RESORT</span><p class="logo_w3l_agile_caption">Tu resort de ensueño</p></a></h1>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
@@ -775,9 +775,9 @@ e</h4>
 		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1" data-aos="flip-right">
 			<h4>Conectate con nosotros
 </h4>
-			<p class="contact-agile1"><strong>Teléfono :</strong>+504 7050-8888</p>
-			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:info@facturacionweb.site">info@facturacionweb.site</a></p>
-			<p class="contact-agile1"><strong>Direccion :</strong> lima, surco</p>
+			<p class="contact-agile1"><strong>Teléfono :</strong>+593 985659928</p>
+			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:info@facturacionweb.site">hoteal@admin.com</a></p>
+			<p class="contact-agile1"><strong>Direccion :</strong> Manta, Ecuador</p>
 																
 			<div class="social-bnr-agileits footer-icons-agileinfo">
 				<ul class="social-icons3">
@@ -794,7 +794,7 @@ e</h4>
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© 2018  <a href="index.php">AMENECER</a> </p>
+		        <p>© 2023  <a href="index.php">HOTELES RESORT</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
