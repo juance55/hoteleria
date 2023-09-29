@@ -757,6 +757,7 @@ e</h4>
                     <input type="submit" name="sub" value="Send Now" class="btn btn-primary">	
 				</form>
 				<?php
+				include('db.php');
 				if(isset($_POST['sub']))
 				{
 					$name =$_POST['name'];
