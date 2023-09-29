@@ -200,7 +200,7 @@ tr:hover .cut { opacity: 1; }
 				<p>New Kalmunani Road,<br>Batusai,<br>Ecuador.</p>
 				<p>(+94) 65 222 44 55</p>
 			</address>
-			<span><img alt="" src="assets/img/sun.png"></span>
+			<span><img alt="" src="assets/img/palma.png"></span>
 		</header>
 		<article>
 			<h1></h1>

@@ -259,7 +259,7 @@ tr:hover .cut { opacity: 1; }
 				<p>Nueva carretera de Kalmunai,<br>Manabí,<br>Ecuador</p>
 				<p>(+593) 98565998</p>
 			</address>
-			<span><img alt="" src="assets/img/sun.png"></span>
+			<span><img alt="" src="assets/img/palma.png"></span>
 		</header>
 		<article>
 			<h1>	Recipiente</h1>

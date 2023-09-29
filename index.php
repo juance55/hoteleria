@@ -24,6 +24,7 @@ include('db.php');
 <link href="//fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
 <link href="//fonts.googleapis.com/css?family=Federo" rel="stylesheet">
 <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+<link rel="icon" href="images/palma.png">
 <!--//fonts-->
 </head>
 <body>
@@ -66,7 +67,7 @@ include('db.php');
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.php"> SOL <span>SUBIR</span><p class="logo_w3l_agile_caption">Tu resort de ensueño</p></a></h1>
+					<h1><a class="navbar-brand" href="index.php"> HOTELES <span>RESORT</span><p class="logo_w3l_agile_caption">Tu resort de ensueño</p></a></h1>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">

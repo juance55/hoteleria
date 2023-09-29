@@ -22,6 +22,7 @@ if(!isset($_SESSION["user"]))
     <link href="assets/css/custom-styles.css" rel="stylesheet" />
     <!-- Google Fonts-->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+    <link rel="icon" href="assets/img/palma.png">
 </head>
 
 <body>
