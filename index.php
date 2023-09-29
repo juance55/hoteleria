@@ -777,7 +777,7 @@ e</h4>
 </h4>
 			<p class="contact-agile1"><strong>Teléfono :</strong>+593 98565998</p>
 			<p class="contact-agile1"><strong>Email :</strong> <a href="hotel@admin.com">hotel@admin.com</a></p>
-			<p class="contact-agile1"><strong>Direccion :</strong> lima, surco</p>
+			<p class="contact-agile1"><strong>Direccion :</strong> Manta, Manbi</p>
 																
 			<div class="social-bnr-agileits footer-icons-agileinfo">
 				<ul class="social-icons3">
@@ -794,7 +794,7 @@ e</h4>
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© 2018  <a href="index.php">AMENECER</a> </p>
+		        <p>© 2023  <a href="index.php">HOTELES RESORT</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->
