@@ -4,7 +4,7 @@ include('db.php');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Hotel</title>
+<title>Hoteles Resort </title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -38,7 +38,7 @@ include('db.php');
 			</div>
 			<div class="contact-bnr-w3-agile">
 				<ul>
-					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@facturacionweb.site">hotel@admin.com</a></li>
+					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="hotel@admin.com">hotel@admin.com</a></li>
 					<li><i class="fa fa-phone" aria-hidden="true"></i>+593 98565998</li>	
 					<li class="s-bar">
 						<div class="search">
@@ -66,7 +66,7 @@ include('db.php');
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.php"> HOTELES <span>RESORT</span><p class="logo_w3l_agile_caption">Tu resort de ensueño</p></a></h1>
+					<h1><a class="navbar-brand" href="index.php"> SOL <span>SUBIR</span><p class="logo_w3l_agile_caption">Tu resort de ensueño</p></a></h1>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
@@ -97,7 +97,7 @@ include('db.php');
 
 							<div class="container">
 								<div class="agileits-banner-info">
-								<h4>SUN RISE</h4>
+								<h4>HOTELES RESORT</h4>
 									<h3>Sabemos lo que amas</h3>
 										<p>Bienvenido a nuestros hoteles
 </p>
@@ -113,7 +113,7 @@ include('db.php');
 						<div class="w3layouts-banner-top w3layouts-banner-top1">
 							<div class="container">
 								<div class="agileits-banner-info">
-								<h4>AMANECER</h4>
+								<h4>RESORT</h4>
 									<h3>Quédate con amigos y familias</h3>
 										<p>Ven y disfruta un momento precioso con nosotros</p>
 									<div class="agileits_w3layouts_more menu__item">
@@ -127,7 +127,7 @@ include('db.php');
 						<div class="w3layouts-banner-top w3layouts-banner-top2">
 							<div class="container">
 								<div class="agileits-banner-info">
-								<h4>AMANECER</h4>
+								<h4>RESORT</h4>
 								<h3>wquiero unas vacaciones lujosas?</h3>
 										<p>Obtenga alojamiento hoy</p>
 									<div class="agileits_w3layouts_more menu__item">
@@ -190,14 +190,14 @@ include('db.php');
 							<span class="cbp-ig-icon w3_road"></span>
 							<h4 class="cbp-ig-title">DORMITORIOS PRINCIPALES
 </h4>
-							<span class="cbp-ig-category">AMANECER</span>
+							<span class="cbp-ig-category">RESORT</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_cube"></span>
 							<h4 class="cbp-ig-title">BALCON CON VISTA AL MAR</h4>
-							<span class="cbp-ig-category">AMANECER</span>
+							<span class="cbp-ig-category">RESORT</span>
 						</div>
 					</li>
 					<li>
@@ -205,14 +205,14 @@ include('db.php');
 							<span class="cbp-ig-icon w3_users"></span>
 							<h4 class="cbp-ig-title">GRAN CAFE
 </h4>
-							<span class="cbp-ig-category">AMANECER</span>
+							<span class="cbp-ig-category">RESORT</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_ticket"></span>
 							<h4 class="cbp-ig-title">COBERTURA WIFI</h4>
-							<span class="cbp-ig-category">AMANECER
+							<span class="cbp-ig-category">RESORT
 </span>
 						</div>
 					</li>
@@ -225,7 +225,7 @@ include('db.php');
  	<div class="about-wthree" id="about">
 		  <div class="container">
 				   <div class="ab-w3l-spa">
-                            <h3 class="title-w3-agileits title-black-wthree">Acerca de nuestro SUN RISE
+                            <h3 class="title-w3-agileits title-black-wthree">Acerca de nuestro RESORT
 </h3> 
 						   <p class="about-para-w3ls"> Lorem Ipsum es simplemente un texto simulado de la industria de impresión y composición tipográfica. Laca tempient vestibulum blandit faucibus. Nunc imperdiet, diam nec rhoncus ullamcorper, nisl nulla suscipit ligula, en imperdiet urna
 </p>
@@ -390,7 +390,7 @@ include('db.php');
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g1.jpg" class="swipebox"><img src="images/g1.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
@@ -399,7 +399,7 @@ include('db.php');
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g2.jpg" class="swipebox"><img src="images/g2.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
@@ -408,7 +408,7 @@ include('db.php');
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g3.jpg" class="swipebox"><img src="images/g3.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 E</h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
@@ -417,7 +417,7 @@ E</h4>
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g4.jpg" class="swipebox"><img src="images/g4.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
@@ -426,7 +426,7 @@ E</h4>
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g5.jpg" class="swipebox"><img src="images/g5.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
@@ -435,7 +435,7 @@ E</h4>
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g6.jpg" class="swipebox"><img src="images/g6.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 					   </div>
@@ -444,7 +444,7 @@ E</h4>
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g6.jpg" class="swipebox"><img src="images/g7.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 					   </div>
@@ -453,7 +453,7 @@ E</h4>
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g6.jpg" class="swipebox"><img src="images/g8.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 					   </div>
@@ -462,7 +462,7 @@ E</h4>
 					<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g9.jpg" class="swipebox"><img src="images/g9.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
@@ -471,7 +471,7 @@ E</h4>
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g10.jpg" class="swipebox"><img src="images/g10.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
@@ -480,7 +480,7 @@ E</h4>
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g4.jpg" class="swipebox"><img src="images/g4.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
@@ -489,7 +489,7 @@ E</h4>
 				<div class="col-md-3 gallery-grid gallery1">
 					<a href="images/g2.jpg" class="swipebox"><img src="images/g2.jpg" class="img-responsive" alt="/">
 						<div class="textbox">
-						<h4>AMANECER
+						<h4>RESORT
 </h4>
 							<p><i class="fa fa-picture-o" aria-hidden="true"></i></p>
 						</div>
@@ -775,9 +775,9 @@ e</h4>
 		<div class="col-lg-6 col-md-6 col-sm-6 contact-w3-agile1" data-aos="flip-right">
 			<h4>Conectate con nosotros
 </h4>
-			<p class="contact-agile1"><strong>Teléfono :</strong>+593 985659928</p>
-			<p class="contact-agile1"><strong>Email :</strong> <a href="mailto:info@facturacionweb.site">hoteal@admin.com</a></p>
-			<p class="contact-agile1"><strong>Direccion :</strong> Manta, Ecuador</p>
+			<p class="contact-agile1"><strong>Teléfono :</strong>+593 98565998</p>
+			<p class="contact-agile1"><strong>Email :</strong> <a href="hotel@admin.com">hotel@admin.com</a></p>
+			<p class="contact-agile1"><strong>Direccion :</strong> lima, surco</p>
 																
 			<div class="social-bnr-agileits footer-icons-agileinfo">
 				<ul class="social-icons3">
@@ -794,7 +794,7 @@ e</h4>
 </section>
 <!-- /contact -->
 			<div class="copy">
-		        <p>© 2023  <a href="index.php">HOTELES RESORT</a> </p>
+		        <p>© 2018  <a href="index.php">AMENECER</a> </p>
 		    </div>
 <!--/footer -->
 <!-- js -->

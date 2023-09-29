@@ -255,9 +255,9 @@ tr:hover .cut { opacity: 1; }
 		<header>
 			<h1>Invoice</h1>
 			<address >
-				<p>Hoteles Resort,</p>
-				<p>Ecuador,<br>Manabí,<br>Ecuador.</p>
-				<p>(+593) 0985651144 </p>
+				<p>HOTELES RESORT,</p>
+				<p>Nueva carretera de Kalmunai,<br>Manabí,<br>Ecuador</p>
+				<p>(+593) 98565998</p>
 			</address>
 			<span><img alt="" src="assets/img/sun.png"></span>
 		</header>
@@ -331,7 +331,7 @@ tr:hover .cut { opacity: 1; }
 		<aside>
 			<h1><span >Contáctenos</span></h1>
 			<div >
-				<p align="center">Email :- hotel@admin.com || Web :- https://hotelit.azurewebsites.net// || Phone :- +593 0985651144 </p>
+				<p align="center">Email :- tusolutionweb@sgmail.com || Web :- http://tusolutionweb.blogspot.pe/ || Phone :- +94 65 222 44 55 </p>
 			</div>
 		</aside>
 	</body>

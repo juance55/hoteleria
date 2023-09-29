@@ -11,7 +11,7 @@ if(!isset($_SESSION["user"]))
 <head>
       <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> HOTEL Amanecer</title>
+    <title> HOTELES Resort</title>
 	<!-- Bootstrap Styles-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
      <!-- FontAwesome Styles-->
@@ -121,7 +121,7 @@ if(!isset($_SESSION["user"]))
 					while($row = mysqli_fetch_array($result))
 					{
 					 $chart_data .= "{ date:'".$row["cout"]."', profit:".$row["fintot"] *10/100 ."}, ";
-					 $tot = $tot + $row["fintot"] *10/100;
+					 //$tot = $chart_data;
 					}
 					$chart_data = substr($chart_data, 0, -2);
 				

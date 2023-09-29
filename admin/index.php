@@ -10,7 +10,7 @@
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>HOTELES RESORT ADMINISTRACIÓN</title>
+  <title>HOTELES RESORT ADMIN</title>
   
   
      
@@ -51,7 +51,7 @@
       </div> <!-- end login -->
 
     </div>
-    <div class="bottom">  <h3><a href="../index.php">HOTELES RESORT</a></h3></div>
+    <div class="bottom">  <h3><a href="../index.php">HOTELES RESORT HOMEPAGE</a></h3></div>
   
   
 </body>
