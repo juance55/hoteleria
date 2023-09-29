@@ -307,7 +307,7 @@ include('db.php');
 						<div class="col-md-6 team-img-w3-agile">
 						</div>
 						<div class="col-md-6 team-Info-agileits">
-							<h4>tusolutionweb</h4>
+							<h4>Hoteles Resort</h4>
 							<span>Gerente
 </span>
 							<p>Lorem ipsum dolor sit amet, elit adipiscing del consectetur, tempor sed y vitalidad, por lo que el trabajo y dolor, algunas cosas importantes que hacer eiusmod. A través de los años por venir, equipo quis.Lorem
@@ -778,7 +778,7 @@ e</h4>
 </h4>
 			<p class="contact-agile1"><strong>Teléfono :</strong>+593 98565998</p>
 			<p class="contact-agile1"><strong>Email :</strong> <a href="hotel@admin.com">hotel@admin.com</a></p>
-			<p class="contact-agile1"><strong>Direccion :</strong> Manta, Manbi</p>
+			<p class="contact-agile1"><strong>Direccion :</strong> Manta, Manabí</p>
 																
 			<div class="social-bnr-agileits footer-icons-agileinfo">
 				<ul class="social-icons3">

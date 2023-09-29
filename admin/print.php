@@ -256,7 +256,7 @@ tr:hover .cut { opacity: 1; }
 			<h1>Invoice</h1>
 			<address >
 				<p>HOTELES RESORT,</p>
-				<p>Nueva carretera de Kalmunai,<br>Manabí,<br>Ecuador</p>
+				<p>Manta,<br>Manabí,<br>Ecuador</p>
 				<p>(+593) 98565998</p>
 			</address>
 			<span><img alt="" src="assets/img/palma.png"></span>
@@ -331,7 +331,7 @@ tr:hover .cut { opacity: 1; }
 		<aside>
 			<h1><span >Contáctenos</span></h1>
 			<div >
-				<p align="center">Email :- tusolutionweb@sgmail.com || Web :- http://tusolutionweb.blogspot.pe/ || Phone :- +94 65 222 44 55 </p>
+				<p align="center">Email :- hotel@admin.com || Web :- https://hotelit.azurewebsites.net/ || Phone :- (+593) 98565998 </p>
 			</div>
 		</aside>
 	</body>

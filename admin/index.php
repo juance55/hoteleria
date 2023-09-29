@@ -15,6 +15,7 @@
   
      
       <link rel="stylesheet" href="css/style.css">
+      <link rel="icon" href="assets/img/palma.png">
 
   
 </head>
