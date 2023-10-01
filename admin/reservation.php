@@ -245,8 +245,7 @@ INFORMACION PERSONAL
 										}
 									}
 
-							$msg="Tu código es correcto
-";
+							$msg="Tu código es correcto";
 							}
 							}
 							?>

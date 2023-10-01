@@ -765,10 +765,16 @@ e</h4>
 					$email = $_POST['email'];
 					$approval = "Not Allowed";
 					$sql = "INSERT INTO `contact`(`fullname`, `phoneno`, `email`,`cdate`,`approval`) VALUES ('$name','$phone','$email',now(),'$approval')" ;
-					
-					
 					if(mysqli_query($con,$sql))
-					echo"OK";
+						{
+							echo "<script type='text/javascript'> alert('Dirección de correo añadida')</script>";
+											
+						}
+						else
+						{
+							echo "<script type='text/javascript'> alert('Error al agregar el correo en la base de datos')</script>";
+											
+						}
 					
 				}
 				?>
