@@ -10,7 +10,7 @@ if(!isset($_SESSION["user"]))
 <head>
       <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hotel Amenecer</title>
+    <title>Hoteles Resort</title>
 	<!-- Bootstrap Styles-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
      <!-- FontAwesome Styles-->
@@ -178,7 +178,7 @@ if(!isset($_SESSION["user"]))
 								$log ="INSERT INTO `newsletterlog`(`title`, `subject`, `news`) VALUES ('$_POST[title]','$_POST[subject]','$_POST[news]')";
 								if(mysqli_query($con,$log))
 								{
-									echo '<script>alert("New Room Added") </script>' ;
+									echo '<script>alert("Nueva Habitación añadida") </script>' ;
 											
 								}
 								

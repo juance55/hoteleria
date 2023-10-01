@@ -28,6 +28,7 @@ $rre=mysqli_query($con,$rsql);
     <link href="assets/css/custom-styles.css" rel="stylesheet" />
      <!-- Google Fonts-->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+   <link rel="icon" href="assets/img/palma.png">
 </head>
 <body>
     <div id="wrapper">
@@ -142,11 +143,11 @@ $rre=mysqli_query($con,$rsql);
 								$sql ="DELETE FROM `room` WHERE id = '$did'" ;
 								if(mysqli_query($con,$sql))
 								{
-								 echo '<script type="text/javascript">alert("Delete the Room") </script>' ;
+								 echo '<script type="text/javascript">alert("Habitación Eliminada") </script>' ;
 										
 										header("Location: roomdel.php");
 								}else {
-									echo '<script>alert("Sorry ! Check The System") </script>' ;
+									echo '<script>alert("Lo siento! Verifique el sistema") </script>' ;
 								}
 							 }
 							

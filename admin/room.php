@@ -19,6 +19,7 @@ if(!isset($_SESSION["user"]))
     <link href="assets/css/custom-styles.css" rel="stylesheet" />
      <!-- Google Fonts-->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+   <link rel="icon" href="assets/img/palma.png">
 </head>
 <body>
     <div id="wrapper">
@@ -138,7 +139,7 @@ if(!isset($_SESSION["user"]))
 										$rs = mysqli_query($con,$check);
 										$data = mysqli_fetch_array($rs, MYSQLI_NUM);
 										if($data[0] > 1) {
-											echo "<script type='text/javascript'> alert('Room Already in Exists')</script>";
+											echo "<script type='text/javascript'> alert('Habitación ya existe')</script>";
 											
 										}
 
@@ -149,9 +150,9 @@ if(!isset($_SESSION["user"]))
 										$sql ="INSERT INTO `room`( `type`, `bedding`,`place`) VALUES ('$room','$bed','$place')" ;
 										if(mysqli_query($con,$sql))
 										{
-										 echo '<script>alert("New Room Added") </script>' ;
+										 echo '<script>alert("Nueva Habitación añadida") </script>' ;
 										}else {
-											echo '<script>alert("Sorry ! Check The System") </script>' ;
+											echo '<script>alert("Lo siento! Verifique el sistema") </script>' ;
 										}
 							 }
 							}

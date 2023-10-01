@@ -15,6 +15,7 @@ include('db.php')
     <link href="assets/css/custom-styles.css" rel="stylesheet" />
      <!-- Google Fonts-->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+   <link rel="icon" href="assets/img/palma.png">
 </head>
 <body>
     <div id="wrapper">
@@ -234,7 +235,7 @@ INFORMACION PERSONAL
 										$newUser="INSERT INTO `roombook`(`Title`, `FName`, `LName`, `Email`, `National`, `Country`, `Phone`, `TRoom`, `Bed`, `NRoom`, `Meal`, `cin`, `cout`,`stat`,`nodays`) VALUES ('$_POST[title]','$_POST[fname]','$_POST[lname]','$_POST[email]','$_POST[nation]','$_POST[country]','$_POST[phone]','$_POST[troom]','$_POST[bed]','$_POST[nroom]','$_POST[meal]','$_POST[cin]','$_POST[cout]','$new',datediff('$_POST[cout]','$_POST[cin]'))";
 										if (mysqli_query($con,$newUser))
 										{
-											echo "<script type='text/javascript'> alert('Su solicitud de reserva ha sido enviadat')</script>";
+											echo "<script type='text/javascript'> alert('Su solicitud de reserva ha sido enviada')</script>";
 											
 										}
 										else

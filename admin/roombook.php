@@ -69,6 +69,7 @@ if(!isset($_SESSION["user"]))
     <link href="assets/css/custom-styles.css" rel="stylesheet" />
     <!-- Google Fonts-->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+	<link rel="icon" href="assets/img/palma.png">
 </head>
 
 <body>
@@ -470,20 +471,20 @@ Confirmación de reserva
 									
 								if($f1=="NO" )
 								{
-									echo "<script type='text/javascript'> alert('Sorry! Not Available Superior Room ')</script>";
+									echo "<script type='text/javascript'> alert('Lo siento! No disponible Superior Room ')</script>";
 								}
 								else if($f2 =="NO")
 									{
-										echo "<script type='text/javascript'> alert('Sorry! Not Available Guest House')</script>";
+										echo "<script type='text/javascript'> alert('Lo siento! No disponible Guest House')</script>";
 										
 									}
 									else if ($f3 == "NO")
 									{
-										echo "<script type='text/javascript'> alert('Sorry! Not Available Single Room')</script>";
+										echo "<script type='text/javascript'> alert('Lo siento! No disponible Single Room')</script>";
 									}
 										else if($f4=="NO")
 										{
-										echo "<script type='text/javascript'> alert('Sorry! Not Available Deluxe Room')</script>";
+										echo "<script type='text/javascript'> alert('Lo siento! No disponible Deluxe Room')</script>";
 										}
 										
 										else if( mysqli_query($con,$urb))
@@ -565,7 +566,7 @@ Confirmación de reserva
 															$rpsql = "UPDATE `room` SET `place`='$notfree',`cusid`='$id' where bedding ='$bed' and type='$troom' ";
 															if(mysqli_query($con,$rpsql))
 															{
-															echo "<script type='text/javascript'> alert('Booking Conform')</script>";
+															echo "<script type='text/javascript'> alert('Reserva Confirmada')</script>";
 															echo "<script type='text/javascript'> window.location='roombook.php'</script>";
 															}
 															

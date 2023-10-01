@@ -22,6 +22,7 @@ ob_start();
      <!-- Google Fonts-->
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
     <link href="assets/js/dataTables/dataTables.bootstrap.css" rel="stylesheet" />
+    <link rel="icon" href="assets/img/palma.png">
 </head>
 <body>
     <div id="wrapper">
@@ -205,7 +206,7 @@ ob_start();
 							$newsql ="Insert into login (usname,pass) values ('$newus','$newps')";
 							if(mysqli_query($con,$newsql))
 							{
-							echo' <script language="javascript" type="text/javascript"> alert("User name and password Added") </script>';
+							echo' <script language="javascript" type="text/javascript"> alert("Nombre de usuario y contraseña agregado") </script>';
 							
 						
 							}
@@ -261,7 +262,7 @@ ob_start();
 					$upsql = "UPDATE `login` SET `usname`='$usname',`pass`='$passwr' WHERE id = '$id'";
 					if(mysqli_query($con,$upsql))
 					{
-					echo' <script language="javascript" type="text/javascript"> alert("User name and password update") </script>';
+					echo' <script language="javascript" type="text/javascript"> alert("Nombre de usuario y contraseña actualizado") </script>';
 					
 				
 					}

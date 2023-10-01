@@ -11,11 +11,10 @@
 <head>
   <meta charset="UTF-8">
   <title>HOTELES RESORT ADMIN</title>
-  
+  <link rel="icon" href="assets/img/palma.png">
   
      
       <link rel="stylesheet" href="css/style.css">
-      <link rel="icon" href="assets/img/palma.png">
 
   
 </head>
@@ -83,7 +82,7 @@
          
          header("location: home.php");
       }else {
-         echo '<script>alert("Your Login Name or Password is invalid") </script>' ;
+         echo '<script>alert("Su nombre de usuario o contraseña no son válidos") </script>' ;
       }
    }
 ?>

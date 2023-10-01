@@ -21,6 +21,7 @@ if(!isset($_SESSION["user"]))
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js//raphael-min.js"></script>
 	<script src="assets/js/morris.min.js"></script>
+    <link rel="icon" href="assets/img/palma.png">
 
    
         <!-- Custom Styles-->

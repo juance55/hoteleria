@@ -23,6 +23,7 @@ if(!isset($_SESSION["user"]))
    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
      <!-- TABLE STYLES-->
     <link href="assets/js/dataTables/dataTables.bootstrap.css" rel="stylesheet" />
+    <link rel="icon" href="assets/img/palma.png">
 </head>
 <body>
     <div id="wrapper">
